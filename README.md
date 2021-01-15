@@ -10,7 +10,7 @@ This Among us mod is a collection of:
 # Compatibility
 This mod can be used on the following systems:
 - Windows 7 or higher OS
-- Mac OS with the use of Wine, PlayOnMac, etc. This is a pretty helpfull video: https://www.youtube.com/watch?v=Zv3uzG0ku-U
+- Mac OS with the use of Wine, PlayOnMac, etc. This is a pretty helpful video: https://www.youtube.com/watch?v=Zv3uzG0ku-U
 - Linux using Wine (Zorin OS has Wine prebuilt in)
 
 # Installation
