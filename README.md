@@ -11,6 +11,7 @@ This Among us mod is a collection of:
 This mod can be used on the following systems:
 - Windows 7 or higher OS
 - Mac OS with the use of Wine, PlayOnMac, etc.
+- Linux using Wine (Zorin OS has Wine prebuilt in)
 
 # Installation
 1. Download the files from above.
