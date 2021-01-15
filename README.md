@@ -1,4 +1,6 @@
 # SyntaxAmongUsMod
+EN: Adds the option to play up to 100 players and use private servers for privacy reasons.
+NL: Voegt de mogelijkheid toe om met meer dan 100 mensen samen te spelen en gebruik te maken van privé servers voor privacy redenen.
 
 This Among us mod is a collection of:
 - the Imposter Private server client: https://github.com/andruzzzhka/CustomServersClient 
